@@ -1,14 +1,14 @@
 // Take the commented ES5 syntax and convert it to ES6 arrow Syntax
 
-//myFunction = => {
-  //console.log("Function was invoked!");
-//};
-  //myFunction();
+// let myFunction = function () {
+// console.log("Function was invoked!");
+// };
+// myFunction();
 
-//anotherFunction = (param) => {
-  //return param;
-//};
-//console.log(anotherFunction("Example"));
+// let anotherFunction = function (param) {
+//   return param;
+// };
+// anotherFunction("Example");
 
 // let add = function (param1, param2) {
 //   return param1 + param2;
